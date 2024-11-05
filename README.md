@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I enjoy making video games and working on computer graphics in general.
 
 ![languages:](https://img.shields.io/badge/languages:-222222?style=flat-square)
-![rust](https://img.shields.io/badge/rust-e63d1e?style=flat-square&logo=Rust)
+![rust](https://img.shields.io/badge/Rust-e63d1e?style=flat-square&logo=Rust)
 ![csharp](https://img.shields.io/badge/C%23-9B4993?style=flat-square&logo=sharp&logoColor=ffffff)
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
 ![ts](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
