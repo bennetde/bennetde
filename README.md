@@ -31,4 +31,5 @@ I enjoy making video games and working on computer graphics in general.
 &nbsp;&nbsp;
 ![tech:](https://img.shields.io/badge/tech:-222222?style=flat-square)
 ![wgpu](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu)
+![vulkan](https://img.shields.io/badge/Vulkan-red?style=flat-square&logo=vulkan)
 ![opengl](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=ffffff)
